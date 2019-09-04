@@ -1,4 +1,3 @@
-/*
 float i = 0;
 int j = 1;
 void setup() {
@@ -22,9 +21,10 @@ void draw() {
     rect(250 - i - width/2, 250 - i - height/2, i * 2 + 1, i * 2 + 1);
     i += 2;
 }
-*/
 
 
+
+// ツイート用
 float i=0;
 int j=1;
 void setup(){
