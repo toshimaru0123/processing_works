@@ -1,6 +1,6 @@
-
 float speed = 25, a = -1, x = 87;
 int back_color = 5, color_d = 10;
+
 void setup() {
     size(500, 500);
 }
