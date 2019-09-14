@@ -25,6 +25,7 @@ void draw() {
 
 
 // ツイート用
+/*
 float i=0;
 int j=1;
 void setup(){
@@ -46,3 +47,4 @@ rotate(i/j);
 rect(-i, -i, i*2+1, i*2+1);
 i+=2;
 }
+*/
